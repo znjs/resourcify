@@ -1,0 +1,12 @@
+.inputFieldWrapper {
+  width: 300px;
+}
+
+.loginButtonWrapper {
+  margin-top: 20px;
+}
+
+.loginButtonWrapper > button {
+  background-color: blue;
+  color: white;
+}
